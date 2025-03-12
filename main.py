@@ -1,3 +1,33 @@
+
+'''💡 Features Implemented in This Django App
+✅ User Authentication (Admin, Participant, Judge)
+✅ Problem Submission with Evaluation
+✅ Real-time Leaderboard Updates
+✅ Basic Code Execution Sandbox (Mocked using subprocess)
+✅ Contest Scheduling System
+✅ API for External Code Evaluation
+✅ Admin Panel for Management'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
